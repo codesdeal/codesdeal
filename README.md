@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer with a knack for building captivating digital experiences. Let me introduce myself a bit further:
 
-👀 I'm deeply interested in a wide array of technologies, including PHP, jQuery, HTML, and CSS. I thrive on staying up-to-date with the latest trends and advancements in the web development landscape.
-🌱 Currently, I'm on a journey to deepen my expertise in two powerhouse frameworks: WordPress and Laravel. Learning and mastering these frameworks allows me to create even more robust and scalable web solutions.
- 💼 In my arsenal, you'll find a diverse set of skills spanning HTML, CSS, JavaScript, Tailwind CSS, Laravel, PHP, MySQL, WordPress, and Magento. This breadth of knowledge empowers me to tackle diverse projects with confidence and creativity.
-🤝 Collaboration fuels my passion for development. I'm always on the lookout for exciting PHP projects where I can contribute my skills and expertise to drive meaningful outcomes.
+- 👀 I'm deeply interested in a wide array of technologies, including PHP, jQuery, HTML, and CSS. I thrive on staying up-to-date with the latest trends and advancements in the web development landscape.
+- 🌱 Currently, I'm on a journey to deepen my expertise in two powerhouse frameworks: WordPress and Laravel. Learning and mastering these frameworks allows me to create even more robust and scalable web solutions.
+- 💼 In my arsenal, you'll find a diverse set of skills spanning HTML, CSS, JavaScript, Tailwind CSS, Laravel, PHP, MySQL, WordPress, and Magento. This breadth of knowledge empowers me to tackle diverse projects with confidence and creativity.
+- 🤝 Collaboration fuels my passion for development. I'm always on the lookout for exciting PHP projects where I can contribute my skills and expertise to drive meaningful outcomes.
 
 ### Overview of My Skills
 
